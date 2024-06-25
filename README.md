@@ -1,3 +1,2 @@
 ### Hello World ?
-I am a fullstack software engineer from bangladesh- ? Working on multiple frontend and backend project using React and Nodejs
-- ? Learning design patterns in depth
+Hello! I'm currently in my third year of studying mathematics and data analysis at the Warsaw University of Technology
