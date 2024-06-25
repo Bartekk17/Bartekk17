@@ -8,5 +8,5 @@ I'm studying mathematics and data analysis at the Warsaw University of Technolog
 - mathematics
 
 ##### 📞 Find me:
-- [LinkedIn](www.linkedin.com/in/bartosz-szymański-34aa50306)
+- [LinkedIn](http://surl.li/zhhjai)
 - [bartosz.szy19@gmail.com](mailto:bartosz.szy19@gmail.com)
